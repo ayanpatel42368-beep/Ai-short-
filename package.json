@@ -1,0 +1,1 @@
+{"name":"shortforge-mobile","version":"1.0.0","main":"node_modules/expo/AppEntry.js","scripts":{"start":"expo start","android":"expo start --android","build-apk":"eas build --platform android --type apk"},"dependencies":{"react":"18.2.0","react-native":"0.73.0","expo":"~50.0.0","axios":"^1.6.0","@react-native-async-storage/async-storage":"^1.21.0"}}
